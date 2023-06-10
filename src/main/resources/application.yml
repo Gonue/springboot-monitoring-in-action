@@ -2,11 +2,4 @@ management:
   endpoints:
     web:
       exposure:
-        include:
-          - info
-          - health
-          - loggers
-          - mappings
-          - metrics
-          - shutdown
-          - prometheus
+        include: prometheus
