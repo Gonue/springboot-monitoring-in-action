@@ -5,4 +5,4 @@ Spring Actuator, Prometheus, Grafana를 사용하여 스프링부트 애플리�
 
 ## 목차
 1. [환경 구축](https://github.com/Gonue/springboot-monitoring-in-action/blob/main/posts/simple-environment)
-   
+2. [E-Mail 을 통한 Alert 기능](https://github.com/Gonue/springboot-monitoring-in-action/blob/main/posts/alerting-ex)
