@@ -6,5 +6,5 @@ Spring Actuator, Prometheus, Grafana를 사용하여 스프링부트 애플리�
 ---
 - [Spring Actuator, Prometheus, Grafana 기본 환경 구축](https://github.com/Gonue/springboot-monitoring-in-action/blob/main/posts/simple-environment)
 - [Spring Actuator - 기본 메트릭 정보](https://github.com/Gonue/springboot-monitoring-in-action/blob/main/posts/metric)
-- [Spring Actuator - Actuator 안전하게 사용하기]()
+- [Spring Actuator - Actuator 안전하게 사용하기](https://techblog.woowahan.com/9232/)
 - [Grafana - Alert 기능](https://github.com/Gonue/springboot-monitoring-in-action/blob/main/posts/alerting-ex)
