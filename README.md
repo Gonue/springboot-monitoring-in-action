@@ -16,7 +16,7 @@ Spring Actuator, Prometheus, Grafana를 사용하여 스프링부트 애플리�
 
 
 - Prometheus
-   - [Prometheus - Query Language (PromQL)](https://github.com/Gonue/springboot-monitoring-in-action/blob/main/posts/PromQL)
+   - [Prometheus - Query Language (PromQL_1)](https://github.com/Gonue/springboot-monitoring-in-action/blob/main/posts/PromQL)
 
 
 - Grafana
